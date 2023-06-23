@@ -19,7 +19,7 @@
     "test": "ng test"
   },
   "license": "MIT",
-  
+  "private": true,
   "keywords": [
     "ng",
     "angular",
