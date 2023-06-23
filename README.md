@@ -136,5 +136,5 @@ See [WOW.js Documentation](https://github.com/matthieua/WOW#advanced-usage) to s
 
 ## License
 
-Copyright (c) 2018 Tine Kondo. Licensed under the MIT License (MIT)
+Copyright (c) 2023 Josmidz Z. Licensed under the MIT License (MIT)
 
