@@ -2,7 +2,7 @@
   <img height="256px" width="256px" style="text-align: center;" src="https://cdn.jsdelivr.net/gh/tinesoft/ngx-wow@master/demo/src/assets/logo.svg">
 </p>
 
-# ngx-cloned-wows - Cloned Angular module for WOW.js.
+# ngx-cloned-wows - Cloned Angular module for WOW.js From [https://tinesoft.github.io/ngx-wow](https://tinesoft.github.io/ngx-wow).
 
 [![npm version](https://badge.fury.io/js/ngx-wow.svg)](https://badge.fury.io/js/ngx-wow)
 [![Build Status](https://travis-ci.org/tinesoft/ngx-wow.svg?branch=master)](https://travis-ci.org/tinesoft/ngx-wow)
